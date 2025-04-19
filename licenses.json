@@ -1,11 +1,7 @@
 {
-  "licenses": [
-    {
-      "map": "U0NQMDk2Q29udGFpbm1lbnRSb29t", 
-      "ips": [
-        "MTkyLjE2OC4xLjE=",     
-        "MTI3LjAuMC4x"
-      ]
-    }
+  "licensed_ips": [
+    "123.45.67.89",
+    "98.76.54.32",
+    "111.222.333.444"
   ]
 }
