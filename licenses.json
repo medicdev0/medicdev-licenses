@@ -1,10 +1,10 @@
 {
   "licenses": [
     {
-      "map": "U0NQMDk2Q29udGFpbm1lbnRSb29t",  // SCP096ContainmentRoom
+      "map": "U0NQMDk2Q29udGFpbm1lbnRSb29t", 
       "ips": [
-        "MTkyLjE2OC4xLjE=",                 // 192.168.1.1
-        "MTI3LjAuMC4x"                      // 127.0.0.1
+        "MTkyLjE2OC4xLjE=",     
+        "MTI3LjAuMC4x"
       ]
     }
   ]
